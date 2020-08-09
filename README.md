@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/jos%C3%A9-rudinei-de-brito-23a262191/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/jos%C3%A9-rudinei-de-brito-23a262191/)
 <!--
 **rudineidebrito18/rudineidebrito18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
