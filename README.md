@@ -28,9 +28,6 @@
 ---
 
 <div style="display: flex"> 
-  <a style="display: flex; margin: 0 15px;" href="https://rudinei-brito18.netlify.app/" target="_blank">
-    <p>Portfólio</p>
-  </a>
   <a style="margin: 0 15px;" href="mailto:rudineidebrito18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
