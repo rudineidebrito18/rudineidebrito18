@@ -6,12 +6,12 @@
 - 📫 How to reach me: rudineidebrito18@gmail.com
 - 📄 [Portfolio](https://rudinei-brito18.netlify.app/)
 
-<div>
+<!-- <div>
   <a href="https://github.com/rudineidebrito18" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudineidebrito18&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudineidebrito18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
